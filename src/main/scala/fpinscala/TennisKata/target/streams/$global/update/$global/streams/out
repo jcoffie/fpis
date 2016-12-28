@@ -1,0 +1,100 @@
+[info] Updating {file:/Users/johncoffie/IdeaProjects/fpinscala/exercises/src/main/scala/fpinscala/TennisKata/}tenniskata...
+[debug] :: resolving dependencies :: default#tenniskata_2.12;1.0
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[info] Resolving org.scala-lang#scala-library;2.12.1 ...
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@5f8fdb6d
+[info] Resolving org.scala-lang#scala-library;2.12.1 ...
+[debug] sbt-chain-delegate: Checking cache for: sbt.ivyint.MergedDescriptors@5f8fdb6d
+[debug] 		tried /Users/johncoffie/.ivy2/local/org.scala-lang/scala-library/2.12.1/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#scala-library;2.12.1
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom
+[debug] 	jcenter: found md file for org.scala-lang#scala-library;2.12.1
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom (2.12.1)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom.sha1
+[debug] sha1 OK for https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.pom
+[debug] 	[SUCCESSFUL ] org.scala-lang#scala-library;2.12.1!scala-library.pom(pom.original) (14676ms)
+[debug] 		tried /Users/johncoffie/.ivy2/local/org.scala-lang/scala-library/2.12.1/jars/scala-library.jar
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-library/2.12.1/scala-library-2.12.1.jar
+[debug] 	found org.scala-lang#scala-library;2.12.1 in jcenter
+[debug] 	[2.12.1] org.scala-lang#scala-library;2.12.1
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [test]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile-internal]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [optional]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [runtime-internal]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [optional]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [test-internal]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [test]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [runtime]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->default(compile)]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->runtime]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->compile]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-library;2.12.1 [compile->master]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [optional]
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [provided]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [plugin]
+[debug] resolving dependencies for configuration 'sources'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [sources]
+[debug] resolving dependencies for configuration 'docs'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [docs]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for default#tenniskata_2.12;1.0 [scala-tool]
+[debug] == resolving dependencies default#tenniskata_2.12;1.0->org.scala-lang#scala-compiler;2.12.1 [scala-tool->default]
+[info] Resolving org.scala-lang#scala-compiler;2.12.1 ...
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.1 {scala-tool=[default, optional(default)]}
+[info] Resolving org.scala-lang#scala-compiler;2.12.1 ...
+[debug] sbt-chain-delegate: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.1 {scala-tool=[default, optional(default)]}
+[debug] 		tried /Users/johncoffie/.ivy2/local/org.scala-lang/scala-compiler/2.12.1/ivys/ivy.xml
+[debug] 	local: no ivy file found for org.scala-lang#scala-compiler;2.12.1
+[debug] 		tried https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.pom
+[debug] 	jcenter: found md file for org.scala-lang#scala-compiler;2.12.1
+[debug] 		=> https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.pom (2.12.1)
+[debug] downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.pom ...
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.pom
+[debug] 	jcenter: downloading https://jcenter.bintray.com/org/scala-lang/scala-compiler/2.12.1/scala-compiler-2.12.1.pom.sha1
